@@ -5,7 +5,7 @@ Use the issues to submit vanilla bugs.
 Bugfixes can be submitted through pull-requests.
 ___
 
-#Issue format:
+### Issue format:
 - A descriptive title
 - Short summary
 - Steps to reproduce
