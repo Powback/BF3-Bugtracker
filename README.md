@@ -13,4 +13,4 @@ ___
 - Steps to reproduce (if any)
 - (optional) suggested fix
 
-If the issue is related to a spesific map, please provide pictures of the affected locations as well.
+If the issue is related to a specific map, please provide pictures of the affected locations as well.
